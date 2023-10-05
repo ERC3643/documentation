@@ -26,7 +26,7 @@ part of the ERC3643 suite:
 - **Compliance Module**: modules implement specific requirements and rules for a compliance. They may require specific
   setup.
 - **Claim Issuer**: though claim issuers are part of the ONCHAINID standard, ERC3643 assumes claim issuers follow
-  the standard and implements the required `isClaimValid` method.
+  the standard and implement the required `isClaimValid` method.
 
 ```mermaid
 ---

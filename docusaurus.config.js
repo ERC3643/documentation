@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ERC3643 documentation',
   tagline: 'Developer documentation for the ERC3643 regulated token standard',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://erc3643.github.io/',
@@ -71,7 +71,7 @@ const config = {
         title: 'ERC3643',
         logo: {
           alt: 'Logo ERC3643',
-          src: 'img/logo.svg',
+          src: 'img/erc3643.png',
         },
         items: [
           {
